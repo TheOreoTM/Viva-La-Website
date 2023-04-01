@@ -79,3 +79,4 @@ Below are the list of badges used in the docs and what they mean. (Color variati
 | [!badge text="Note" icon="note" iconAlign="right"]           | A note for a member                                 |
 | [!badge text="Warning ID" icon="number" iconAlign="right"]   | A warn Id found in warnings                         |
 | [!badge text="Server" icon="organization" iconAlign="right"] | The server                                          |
+| [!badge icon="search" iconAlign="right" text="Query"]        | A query of a resource                               |

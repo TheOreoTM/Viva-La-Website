@@ -49,6 +49,6 @@ As of right now the only system in the bot is Automod. However, automod has vari
 - Quick Spam
   ==-
 
-Each sub-system has the same options but they can function differently for the sub-system. To get more info about the effects of an option for a sub-system use the `/automod help` command
+Each sub-system has the same options but they can function differently for the sub-system. To get more info about the effects of an option on a sub-systemuse the `/automod help` command
 
-You can setup a logging channel for automod action by using the `/automod log-channel` command
+You can setup a logging channel for automod actions by using the `/automod log-channel` command

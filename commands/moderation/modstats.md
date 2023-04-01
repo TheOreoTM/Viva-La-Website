@@ -23,5 +23,5 @@ This command allows staff members to view the **modstats** of a [!badge variant=
 | :icon-chevron-right:**`modstats 797587140288034516`** | View warnings using **ID**          |
 
 !!!info Info
-If no member is provided it will default to the command author
+If no [!badge variant="info" text="Member" icon="person" iconAlign="right"] is specified, it will default to the [!badge variant="info" text="Command Author" icon="person" iconAlign="right"]
 !!!
