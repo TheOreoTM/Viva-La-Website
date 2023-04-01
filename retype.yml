@@ -1,0 +1,53 @@
+# input: .
+# output: .retype
+# url: # Add your website address here
+# branding:
+#   title: '{name}'
+#   label: Docs
+# links:
+#   - text: Getting Started
+#     link: https://retype.com/guides/getting-started/
+# footer:
+#   copyright: '&copy; Copyright {{ 2023 }}. All rights reserved.'
+
+input: ./
+output: .retype
+url: # No
+favicon: /static/gir-unit-image.png
+
+branding:
+  logo: /static/gir-unit-image.png
+  logoDark: /static/gir-unit-image.png
+  label: v2.4
+
+meta:
+  title: ' | Gir-Unit Docs'
+
+# edit:
+#   repo: github.com/retypeapp/retype
+search:
+  hotkeys:
+    - '/'
+  maxResults: 15
+  minChars: 3
+  mode: partial
+  noResultsFoundMsg: Sorry, no results found.
+  placeholder: Search
+
+editor:
+  enabled: true
+
+links:
+  - text: Home
+    link: /README.md
+    icon: home
+
+footer:
+  copyright: © Copyright {{ year }} – [Name](https://example.com/) – All rights reserved
+  # links:
+  #   - text: About
+  #     link: about.md
+  #     icon: question
+  #   - text: License
+  #     link: license.md
+  #     icon: shield-check
