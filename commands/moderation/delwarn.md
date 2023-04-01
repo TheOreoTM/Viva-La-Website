@@ -2,6 +2,9 @@
 icon: triangle-right
 label: delwarn
 order: -170
+author:
+  - name: Oreo ™
+    avatar: ../../static/oreo-avatar.png
 ---
 
 # Delwarn

@@ -2,6 +2,9 @@
 icon: triangle-right
 label: temprole
 order: -280
+author:
+  - name: Oreo ™
+    avatar: ../../static/oreo-avatar.png
 ---
 
 # Temprole

@@ -2,6 +2,9 @@
 icon: triangle-right
 label: warnings
 order: -165
+author:
+  - name: Oreo ™
+    avatar: ../../static/oreo-avatar.png
 ---
 
 # Warnings

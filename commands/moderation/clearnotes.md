@@ -2,6 +2,9 @@
 icon: triangle-right
 label: clearnotes
 order: -140
+author:
+  - name: Oreo ™
+    avatar: ../../static/oreo-avatar.png
 ---
 
 # Clearnotes

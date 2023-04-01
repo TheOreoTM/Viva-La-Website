@@ -2,6 +2,9 @@
 icon: triangle-right
 label: delnote
 order: -130
+author:
+  - name: Oreo ™
+    avatar: ../../static/oreo-avatar.png
 ---
 
 # Delnote

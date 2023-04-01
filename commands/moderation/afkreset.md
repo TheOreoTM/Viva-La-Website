@@ -2,6 +2,9 @@
 icon: triangle-right
 label: afkreset
 order: -20
+author:
+  - name: Oreo ™
+    avatar: ../../static/oreo-avatar.png
 ---
 
 # Afkreset

@@ -2,6 +2,9 @@
 icon: triangle-right
 label: modstats
 order: -260
+author:
+  - name: Oreo ™
+    avatar: ../../static/oreo-avatar.png
 ---
 
 # Modstats

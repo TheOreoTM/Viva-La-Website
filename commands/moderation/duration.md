@@ -2,6 +2,9 @@
 icon: triangle-right
 label: duration
 order: -190
+author:
+  - name: Oreo ™
+    avatar: ../../static/oreo-avatar.png
 ---
 
 # Duration

@@ -2,6 +2,9 @@
 icon: triangle-right
 label: unban
 order: -50
+author:
+  - name: Oreo ™
+    avatar: ../../static/oreo-avatar.png
 ---
 
 # Unban

@@ -2,6 +2,9 @@
 icon: triangle-right
 label: case
 order: -90
+author:
+  - name: Oreo ™
+    avatar: ../../static/oreo-avatar.png
 ---
 
 # Case

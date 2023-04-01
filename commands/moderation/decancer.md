@@ -2,6 +2,9 @@
 icon: triangle-right
 label: decancer
 order: -150
+author:
+  - name: Oreo ™
+    avatar: ../../static/oreo-avatar.png
 ---
 
 # Decancer

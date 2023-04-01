@@ -2,6 +2,9 @@
 icon: triangle-right
 label: afkremove
 order: -10
+author:
+  - name: Oreo ™
+    avatar: ../../static/oreo-avatar.png
 ---
 
 # Afkremove

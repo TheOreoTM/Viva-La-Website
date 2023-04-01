@@ -2,6 +2,9 @@
 icon: triangle-right
 label: modactions
 order: -230
+author:
+  - name: Oreo ™
+    avatar: ../../static/oreo-avatar.png
 ---
 
 # Modactions

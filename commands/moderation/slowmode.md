@@ -2,6 +2,9 @@
 icon: triangle-right
 label: slowmode
 order: -270
+author:
+  - name: Oreo ™
+    avatar: ../../static/oreo-avatar.png
 ---
 
 # Slowmode

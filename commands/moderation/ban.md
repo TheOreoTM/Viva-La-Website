@@ -2,6 +2,9 @@
 icon: triangle-right
 label: ban
 order: -40
+author:
+  - name: Oreo ™
+    avatar: ../../static/oreo-avatar.png
 ---
 
 # Ban

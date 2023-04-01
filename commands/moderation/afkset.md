@@ -2,6 +2,9 @@
 icon: triangle-right
 label: afkset
 order: -30
+author:
+  - name: Oreo ™
+    avatar: ../../static/oreo-avatar.png
 ---
 
 # Afkset

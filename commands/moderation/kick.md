@@ -2,6 +2,9 @@
 icon: triangle-right
 label: kick
 order: -60
+author:
+  - name: Oreo ™
+    avatar: ../../static/oreo-avatar.png
 ---
 
 # Kick

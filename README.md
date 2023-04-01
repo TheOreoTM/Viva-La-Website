@@ -2,6 +2,9 @@
 label: 'Home'
 icon: home
 order: 99999
+author:
+  - name: Oreo ™
+    avatar: ./static/oreo-avatar.png
 ---
 
 # Home
@@ -62,16 +65,17 @@ Badges in red are required parameters and badges in gray are optional parameters
 
 Below are the list of badges used in the docs and what they mean. (Color variations not included)
 
-| Badge                                                      | Meaning                                             |
-| ---------------------------------------------------------- | --------------------------------------------------- |
-| [!badge text="Member" icon="person" iconAlign="right"]     | A member in the server (@mention / ID)              |
-| [!badge text="User" icon="person-fill" iconAlign="right"]  | A user (usually means the user is not in the guild) |
-| [!badge text="Duration" icon="clock" iconAlign="right"]    | A duration in the format `1m, 5h, 7d`               |
-| [!badge text="Reason" icon="note" iconAlign="right"]       | A reason for an action                              |
-| [!badge text="Channel" icon="hash" iconAlign="right"]      | A channel in the server (#mention / ID)             |
-| [!badge text="Nickname" icon="id-badge" iconAlign="right"] | A new nickname for a member (max length of 32)      |
-| [!badge text="Role" icon="mention" iconAlign="right"]      | A role in the server (@mention / ID)                |
-| [!badge text="Case ID" icon="number" iconAlign="right"]    | A case ID (found in modlogs)                        |
-| [!badge text="Bot" icon="dependabot" iconAlign="right"]    | A reference to Gir-Unit                             |
-| [!badge text="Note" icon="note" iconAlign="right"]         | A note for a member                                 |
-| [!badge text="Warning ID" icon="number" iconAlign="right"] | A warn Id found in warnings                         |
+| Badge                                                        | Meaning                                             |
+| ------------------------------------------------------------ | --------------------------------------------------- |
+| [!badge text="Member" icon="person" iconAlign="right"]       | A member in the server (@mention / ID)              |
+| [!badge text="User" icon="person-fill" iconAlign="right"]    | A user (usually means the user is not in the guild) |
+| [!badge text="Duration" icon="clock" iconAlign="right"]      | A duration in the format `1m, 5h, 7d`               |
+| [!badge text="Reason" icon="note" iconAlign="right"]         | A reason for an action                              |
+| [!badge text="Channel" icon="hash" iconAlign="right"]        | A channel in the server (#mention / ID)             |
+| [!badge text="Nickname" icon="id-badge" iconAlign="right"]   | A new nickname for a member (max length of 32)      |
+| [!badge text="Role" icon="mention" iconAlign="right"]        | A role in the server (@mention / ID)                |
+| [!badge text="Case ID" icon="number" iconAlign="right"]      | A case ID (found in modlogs)                        |
+| [!badge text="Bot" icon="dependabot" iconAlign="right"]      | A reference to Gir-Unit                             |
+| [!badge text="Note" icon="note" iconAlign="right"]           | A note for a member                                 |
+| [!badge text="Warning ID" icon="number" iconAlign="right"]   | A warn Id found in warnings                         |
+| [!badge text="Server" icon="organization" iconAlign="right"] | The server                                          |

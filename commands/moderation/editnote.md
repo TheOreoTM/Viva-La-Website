@@ -2,6 +2,9 @@
 icon: triangle-right
 label: editnote
 order: -120
+author:
+  - name: Oreo ™
+    avatar: ../../static/oreo-avatar.png
 ---
 
 # Editnote

@@ -2,6 +2,9 @@
 icon: triangle-right
 label: stickyrole
 order: -290
+author:
+  - name: Oreo ™
+    avatar: ../../static/oreo-avatar.png
 ---
 
 # Stickyrole

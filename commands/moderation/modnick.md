@@ -2,6 +2,9 @@
 icon: triangle-right
 label: modnick
 order: -250
+author:
+  - name: Oreo ™
+    avatar: ../../static/oreo-avatar.png
 ---
 
 # Modnick

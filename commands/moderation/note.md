@@ -2,6 +2,9 @@
 icon: triangle-right
 label: note
 order: -110
+author:
+  - name: Oreo ™
+    avatar: ../../static/oreo-avatar.png
 ---
 
 # Note

@@ -2,6 +2,9 @@
 icon: triangle-right
 label: unmute
 order: -80
+author:
+  - name: Oreo ™
+    avatar: ../../static/oreo-avatar.png
 ---
 
 # Unmute

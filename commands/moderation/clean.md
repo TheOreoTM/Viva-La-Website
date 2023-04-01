@@ -2,6 +2,9 @@
 icon: triangle-right
 label: clean
 order: -100
+author:
+  - name: Oreo ™
+    avatar: ../../static/oreo-avatar.png
 ---
 
 # Clean

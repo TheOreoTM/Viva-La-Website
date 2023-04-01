@@ -2,6 +2,9 @@
 icon: triangle-right
 label: softban
 order: -45
+author:
+  - name: Oreo ™
+    avatar: ../../static/oreo-avatar.png
 ---
 
 # Kick
