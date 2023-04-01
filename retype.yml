@@ -12,7 +12,7 @@
 
 input: ./
 output: .retype
-url: # No
+url: https://theoreotm.github.io/Viva-La-Website/
 favicon: /static/gir-unit-image.png
 
 branding:
