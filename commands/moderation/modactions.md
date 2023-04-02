@@ -1,13 +1,13 @@
 ---
 icon: triangle-right
-label: modactions
+label: Modactions
 order: -230
 author:
   - name: Oreo ™
     avatar: ../../static/oreo-avatar.png
 ---
 
-# Modactions
+# Modactions [!badge variant="dark" icon="../../static/staff-dark.png" text="Staff" iconAlign="right" margin="0 0 0 8" size="s"]
 
 This command allows staff members to view the **modactions** of a [!badge variant="info" text="Staff Member" icon="people" iconAlign="right"]
 

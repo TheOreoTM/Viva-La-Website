@@ -1,13 +1,13 @@
 ---
 icon: triangle-right
-label: clearnotes
+label: Clearnotes
 order: -140
 author:
   - name: Oreo ™
     avatar: ../../static/oreo-avatar.png
 ---
 
-# Clearnotes
+# Clearnotes [!badge variant="dark" icon="../../static/staff-dark.png" text="Staff" iconAlign="right" margin="0 0 0 8" size="s"]
 
 This command allows staff members to **clear all notes** for a [!badge variant="info" text="Member" icon="person" iconAlign="right"]
 

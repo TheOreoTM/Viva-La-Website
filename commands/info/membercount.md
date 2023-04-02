@@ -1,6 +1,6 @@
 ---
 icon: triangle-right
-label: membercount
+label: Membercount
 order: -40
 author:
   - name: Oreo ™

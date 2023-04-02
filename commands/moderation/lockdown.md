@@ -1,13 +1,13 @@
 ---
 icon: triangle-right
-label: lock
+label: Lock
 order: -210
 author:
   - name: Oreo ™
     avatar: ../../static/oreo-avatar.png
 ---
 
-# Lockdown
+# Lockdown [!badge variant="dark" icon="../../static/staff-dark.png" text="Staff" iconAlign="right" margin="0 0 0 8" size="s"]
 
 This command allows staff members to **lockdown** a [!badge variant="info" text="Server" icon="organization" iconAlign="right"]
 

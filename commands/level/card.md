@@ -1,6 +1,6 @@
 ---
 icon: triangle-right
-label: card
+label: Card
 order: -10
 author:
   - name: Oreo ™

@@ -1,13 +1,13 @@
 ---
 icon: triangle-right
-label: delnote
+label: Delnote
 order: -130
 author:
   - name: Oreo ™
     avatar: ../../static/oreo-avatar.png
 ---
 
-# Delnote
+# Delnote [!badge variant="dark" icon="../../static/staff-dark.png" text="Staff" iconAlign="right" margin="0 0 0 8" size="s"]
 
 This command allows staff members to **delete a note** for a [!badge variant="info" text="Member" icon="person" iconAlign="right"]
 

@@ -1,13 +1,13 @@
 ---
 icon: triangle-right
-label: decancer
+label: Decancer
 order: -150
 author:
   - name: Oreo ™
     avatar: ../../static/oreo-avatar.png
 ---
 
-# Decancer
+# Decancer [!badge variant="dark" icon="../../static/staff-dark.png" text="Staff" iconAlign="right" margin="0 0 0 8" size="s"]
 
 This command allows staff members to **decancer** the username of a [!badge variant="info" text="Member" icon="person" iconAlign="right"] by removing special characters and replacing them with normal characters
 

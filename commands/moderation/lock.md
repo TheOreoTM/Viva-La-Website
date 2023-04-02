@@ -1,13 +1,13 @@
 ---
 icon: triangle-right
-label: lock
+label: Lock
 order: -200
 author:
   - name: Oreo ™
     avatar: ../../static/oreo-avatar.png
 ---
 
-# Lock
+# Lock [!badge variant="dark" icon="../../static/staff-dark.png" text="Staff" iconAlign="right" margin="0 0 0 8" size="s"]
 
 This command allows staff members to **lock** a [!badge variant="info" text="Channel" icon="hash" iconAlign="right"]
 

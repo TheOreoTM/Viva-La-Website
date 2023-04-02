@@ -1,13 +1,13 @@
 ---
 icon: triangle-right
-label: duration
+label: Duration
 order: -190
 author:
   - name: Oreo ™
     avatar: ../../static/oreo-avatar.png
 ---
 
-# Duration
+# Duration [!badge variant="dark" icon="../../static/staff-dark.png" text="Staff" iconAlign="right" margin="0 0 0 8" size="s"]
 
 This command allows staff members to **edit a duration** for a mute/ban of a [!badge variant="info" text="Member" icon="person" iconAlign="right"]
 

@@ -1,13 +1,13 @@
 ---
 icon: triangle-right
-label: reason
+label: Reason
 order: -180
 author:
   - name: Oreo ™
     avatar: ../../static/oreo-avatar.png
 ---
 
-# Reason
+# Reason [!badge variant="dark" icon="../../static/staff-dark.png" text="Staff" iconAlign="right" margin="0 0 0 8" size="s"]
 
 This command allows staff members to **edit a reason** for a modlog case of a [!badge variant="info" text="Member" icon="person" iconAlign="right"]
 

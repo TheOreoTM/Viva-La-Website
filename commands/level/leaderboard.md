@@ -1,13 +1,13 @@
 ---
 icon: triangle-right
-label: leaderboard
+label: Leaderboard
 order: -20
 author:
   - name: Oreo ™
     avatar: ../../static/oreo-avatar.png
 ---
 
-# leaderboard
+# Leaderboard
 
 Shows the top members in the server
 

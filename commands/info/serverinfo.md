@@ -1,6 +1,6 @@
 ---
 icon: triangle-right
-label: serverinfo
+label: Serverinfo
 order: -70
 author:
   - name: Oreo ™

@@ -1,13 +1,13 @@
 ---
 icon: triangle-right
-label: kick
+label: Kick
 order: -60
 author:
   - name: Oreo ™
     avatar: ../../static/oreo-avatar.png
 ---
 
-# Kick
+# Kick [!badge variant="dark" icon="../../static/staff-dark.png" text="Staff" iconAlign="right" margin="0 0 0 8" size="s"]
 
 This command allows staff members to **kick** a [!badge variant="info" text="Member" icon="person"iconAlign="right"] from the server
 

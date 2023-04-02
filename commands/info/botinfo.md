@@ -1,6 +1,6 @@
 ---
 icon: triangle-right
-label: botinfo
+label: Botinfo
 order: -10
 author:
   - name: Oreo ™

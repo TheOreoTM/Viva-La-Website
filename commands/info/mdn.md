@@ -1,6 +1,6 @@
 ---
 icon: triangle-right
-label: mdn
+label: Mdn
 order: -30
 author:
   - name: Oreo ™

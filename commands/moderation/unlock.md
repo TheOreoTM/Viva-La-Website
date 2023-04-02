@@ -1,13 +1,13 @@
 ---
 icon: triangle-right
-label: lock
+label: Unlock
 order: -205
 author:
   - name: Oreo ™
     avatar: ../../static/oreo-avatar.png
 ---
 
-# Unlock
+# Unlock [!badge variant="dark" icon="../../static/staff-dark.png" text="Staff" iconAlign="right" margin="0 0 0 8" size="s"]
 
 This command allows staff members to **unlock** a [!badge variant="info" text="Channel" icon="hash" iconAlign="right"]
 

@@ -1,6 +1,6 @@
 ---
 icon: triangle-right
-label: ping
+label: Ping
 order: -50
 author:
   - name: Oreo ™

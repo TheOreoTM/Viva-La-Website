@@ -1,13 +1,13 @@
 ---
 icon: triangle-right
-label: modlogs
+label: Modlogs
 order: -240
 author:
   - name: Oreo ™
     avatar: ../../static/oreo-avatar.png
 ---
 
-# Modlogs
+# Modlogs [!badge variant="dark" icon="../../static/staff-dark.png" text="Staff" iconAlign="right" margin="0 0 0 8" size="s"]
 
 This command allows staff members to view the **modlogs** of a [!badge variant="info" text="Member" icon="person" iconAlign="right"]
 

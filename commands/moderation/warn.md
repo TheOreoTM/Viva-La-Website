@@ -1,13 +1,13 @@
 ---
 icon: triangle-right
-label: warn
+label: Warn
 order: -160
 author:
   - name: Oreo ™
     avatar: ../../static/oreo-avatar.png
 ---
 
-# Warn
+# Warn [!badge variant="dark" icon="../../static/staff-dark.png" text="Staff" iconAlign="right" margin="0 0 0 8" size="s"]
 
 This command allows staff members to **warn** a [!badge variant="info" text="Member" icon="person"iconAlign="right"] from the server
 

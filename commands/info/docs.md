@@ -1,6 +1,6 @@
 ---
 icon: triangle-right
-label: docs
+label: Docs
 order: -20
 author:
   - name: Oreo ™

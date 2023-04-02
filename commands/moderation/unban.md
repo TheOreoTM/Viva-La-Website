@@ -1,13 +1,13 @@
 ---
 icon: triangle-right
-label: unban
+label: Unban
 order: -50
 author:
   - name: Oreo ™
     avatar: ../../static/oreo-avatar.png
 ---
 
-# Unban
+# Unban [!badge variant="dark" icon="../../static/staff-dark.png" text="Staff" iconAlign="right" margin="0 0 0 8" size="s"]
 
 This command allows staff members to **unban** a [!badge variant="info" text="User" icon="person-fill" iconAlign="right"] from the server
 

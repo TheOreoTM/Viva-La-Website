@@ -1,6 +1,6 @@
 ---
 icon: triangle-right
-label: profile
+label: Profile
 order: -60
 author:
   - name: Oreo ™

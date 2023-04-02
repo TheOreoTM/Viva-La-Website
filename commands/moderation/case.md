@@ -1,13 +1,13 @@
 ---
 icon: triangle-right
-label: case
+label: Case
 order: -90
 author:
   - name: Oreo ™
     avatar: ../../static/oreo-avatar.png
 ---
 
-# Case
+# Case [!badge variant="dark" icon="../../static/staff-dark.png" text="Staff" iconAlign="right" margin="0 0 0 8" size="s"]
 
 This command allows staff members to view a **case**
 
