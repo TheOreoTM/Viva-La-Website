@@ -9,7 +9,7 @@ author:
 
 # Botinfo
 
-Shows the current stats of the bots including:
+Shows the current **stats** of the bots including:
 
 - Ping
 - Amount of users

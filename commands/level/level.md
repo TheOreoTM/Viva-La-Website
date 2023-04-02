@@ -9,7 +9,7 @@ author:
 
 # Level [!badge variant="dark" icon="../../static/staff-dark.png" text="Staff" iconAlign="right" margin="0 0 0 8" size="s"]
 
-Modify the level of a [!badge variant="info" text="Member" icon="person" iconAlign="right"]
+Modify the **level** of a [!badge variant="info" text="Member" icon="person" iconAlign="right"]
 
 ||| :icon-codescan: Syntax
 :icon-chevron-right:level [!badge variant="danger" text="Subcommand" icon="git-merge" iconAlign="right"] [!badge variant="danger" text="Member" icon="person" iconAlign="right"] [!badge variant="danger" text="Amount" icon="number" iconAlign="right"]  

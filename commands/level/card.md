@@ -17,6 +17,8 @@ A command to customize your **rankcard**.
 
 <font size='2rem'>\*[!badge variant="info" text="Subcommand" icon="git-merge" iconAlign="right" size='xs'] is not required if the [!badge variant="info" text="Subcommand Group" icon="workflow" iconAlign="right" size='xs'] is `Reset`</font>
 
+---
+
 +++ Color
 
 ### Subcommands

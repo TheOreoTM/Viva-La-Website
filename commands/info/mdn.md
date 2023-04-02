@@ -9,7 +9,7 @@ author:
 
 # Mdn
 
-A command to search the [official MDN documentation](https://developer.mozilla.org/en-US/)
+A command to **search** the [official MDN documentation](https://developer.mozilla.org/en-US/)
 
 ||| :icon-codescan: Syntax
 :icon-chevron-right:mdn [!badge icon="search" iconAlign="right" text="Query" variant="danger"]

@@ -2,6 +2,9 @@
 label: 'Setup'
 icon: checklist
 order: 10000
+author:
+  - name: Oreo ™
+    avatar: ./static/oreo-avatar.png
 ---
 
 # Setup [!badge variant="dark" icon="./static/staff-dark.png" text="Admin" iconAlign="right" margin="0 0 0 8" size="s"]
@@ -17,7 +20,7 @@ Gir-Unit includes a few modules and systems that you can setup individually.
 - Ticket
 - Suggestion
 - Ignored-Channels
-- ~~Party~~
+- ~~Party~~ [!badge variant="danger" text="Deprecated" size="xs" margin="0 0 0 8"]
   ==- Systems
 - Automod
   ==-

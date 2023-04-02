@@ -9,7 +9,7 @@ author:
 
 # Leaderboard
 
-Shows the top members in the server
+Shows the **top members** in the server
 
 ||| :icon-codescan: Syntax
 :icon-chevron-right:leaderboard [!badge text="Page" variant="ghost" icon="book" iconAlign="right"]

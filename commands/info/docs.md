@@ -9,7 +9,7 @@ author:
 
 # Docs
 
-A command to search the [Discord.js documentation](https://discord.js.org/#/docs/discord.js/main/general/welcome/)
+A command to **search** the [Discord.js documentation](https://discord.js.org/#/docs/discord.js/main/general/welcome/)
 
 ||| :icon-codescan: Syntax
 :icon-chevron-right:docs [!badge icon="search" iconAlign="right" text="Query" variant="danger"]

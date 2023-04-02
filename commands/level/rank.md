@@ -9,7 +9,7 @@ author:
 
 # Rank
 
-View the rankcard of a [!badge variant="info" text="Member" icon="person" iconAlign="right"]
+View the **rankcard** of a [!badge variant="info" text="Member" icon="person" iconAlign="right"]
 
 ||| :icon-codescan: Syntax
 :icon-chevron-right:rank [!badge variant="ghost" text="Member" icon="person" iconAlign="right"]  

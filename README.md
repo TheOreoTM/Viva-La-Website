@@ -91,3 +91,4 @@ Below are the list of badges used in the docs and what they mean. (Color variati
 | [!badge text="Subcommand Group" icon="workflow" iconAlign="right"] | A subcommand group                                  |
 | [!badge text="Subcommand" icon="git-merge" iconAlign="right"]      | A subcommand                                        |
 | [!badge text="Amount" icon="number" iconAlign="right"]             | An amount                                           |
+| [!badge text="Hex Code" iconAlign="right" icon="paintbrush"]       | A [hex code](what-is-a-hexcode.md)                  |
