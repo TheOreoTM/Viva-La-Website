@@ -23,5 +23,5 @@ Shows the top members in the server
 | :icon-chevron-right:**`leaderboard 2`** | View **page 2** of the **leaderboard** |
 
 !!!info Info
-If no [!badge text="Page" variant="info" icon="book" iconAlign="right"] is specified then it will show the first page
+If no [!badge text="Page" variant="info" icon="book" iconAlign="right"] is specified, the first page will be shown
 !!!

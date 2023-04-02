@@ -28,5 +28,5 @@ This command allows staff members to view the **warnings** of a [!badge variant=
 
 - If no [!badge variant="info" text="Member" icon="person" iconAlign="right"] is specified, it will default to the [!badge variant="info" text="Author" icon="person" iconAlign="right"]
 
-- If no [!badge text="Page" variant="info" icon="book" iconAlign="right"] is specified then it will show the first page
+- If no [!badge text="Page" variant="info" icon="book" iconAlign="right"] is specified, the first page will be shown
   !!!

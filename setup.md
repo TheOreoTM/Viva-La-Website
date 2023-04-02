@@ -4,7 +4,7 @@ icon: checklist
 order: 10000
 ---
 
-# Setup
+# Setup [!badge variant="dark" icon="./static/staff-dark.png" text="Admin" iconAlign="right" margin="0 0 0 8" size="s"]
 
 Gir-Unit includes a few modules and systems that you can setup individually.
 
