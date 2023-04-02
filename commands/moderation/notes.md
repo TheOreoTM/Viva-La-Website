@@ -23,5 +23,5 @@ This command allows staff members to view the **notes** of a [!badge variant="in
 | :icon-chevron-right:**`notes 797587140288034516`** | View notes using **ID**           |
 
 !!!info Info
-If no [!badge variant="info" text="Member" icon="person" iconAlign="right"] is specified, it will default to the [!badge variant="info" text="Command Author" icon="person" iconAlign="right"]
+If no [!badge variant="info" text="Member" icon="person" iconAlign="right"] is specified, it will default to the [!badge variant="info" text="Author" icon="person" iconAlign="right"]
 !!!

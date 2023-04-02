@@ -23,5 +23,5 @@ A command to check the **profile** of a [!badge variant="info" text="Member" ico
 | :icon-chevron-right:**`profile 395758956091277315`** | View the **profile** using **ID** |
 
 !!!info Info
-If no [!badge variant="info" text="Member" icon="person" iconAlign="right"] is specified, it will default to the [!badge variant="info" text="Command Author" icon="person" iconAlign="right"]
+If no [!badge variant="info" text="Member" icon="person" iconAlign="right"] is specified, it will default to the [!badge variant="info" text="Author" icon="person" iconAlign="right"]
 !!!

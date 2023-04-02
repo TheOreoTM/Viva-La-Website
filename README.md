@@ -45,7 +45,7 @@ Dangers or very important infomation will be displayed in large red boxes like t
 !!!
 
 === Badges
-Badges in red are required parameters and badges in gray are optional parameters
+Badges in [!badge variant="danger" text="red"] are required parameters, badges in [!badge variant="ghost" text="gray"] are optional parameters and badges in [!badge variant="success" text="green"] are filled-in parameters (most commonly seen used in subcommand groups)
 
 #### Example of required parameters
 
@@ -59,24 +59,34 @@ Badges in red are required parameters and badges in gray are optional parameters
 - [!badge variant="ghost" text="Channel" icon="hash" iconAlign="right"]
 - [!badge variant="ghost" text="Nickname" icon="id-badge" iconAlign="right"]
 
+#### Example of filled-in parameters
+
+- [!badge variant="success" text="Promoting NFTs" icon="note" iconAlign="right"] ~(reason)~
+- [!badge variant="success" text="#general" icon="hash" iconAlign="right"] ~(channel mention)~
+- [!badge variant="success" text="Inappropriate Nickname" icon="id-badge" iconAlign="right"] ~(nickname)~
+
 ===
 
 ## Badges
 
 Below are the list of badges used in the docs and what they mean. (Color variations not included)
 
-| Badge                                                        | Meaning                                             |
-| ------------------------------------------------------------ | --------------------------------------------------- |
-| [!badge text="Member" icon="person" iconAlign="right"]       | A member in the server (@mention / ID)              |
-| [!badge text="User" icon="person-fill" iconAlign="right"]    | A user (usually means the user is not in the guild) |
-| [!badge text="Duration" icon="clock" iconAlign="right"]      | A duration in the format `1m, 5h, 7d`               |
-| [!badge text="Reason" icon="note" iconAlign="right"]         | A reason for an action                              |
-| [!badge text="Channel" icon="hash" iconAlign="right"]        | A channel in the server (#mention / ID)             |
-| [!badge text="Nickname" icon="id-badge" iconAlign="right"]   | A new nickname for a member (max length of 32)      |
-| [!badge text="Role" icon="mention" iconAlign="right"]        | A role in the server (@mention / ID)                |
-| [!badge text="Case ID" icon="number" iconAlign="right"]      | A case ID (found in modlogs)                        |
-| [!badge text="Bot" icon="dependabot" iconAlign="right"]      | A reference to Gir-Unit                             |
-| [!badge text="Note" icon="note" iconAlign="right"]           | A note for a member                                 |
-| [!badge text="Warning ID" icon="number" iconAlign="right"]   | A warn Id found in warnings                         |
-| [!badge text="Server" icon="organization" iconAlign="right"] | The server                                          |
-| [!badge icon="search" iconAlign="right" text="Query"]        | A query of a resource                               |
+| Badge                                                              | Meaning                                             |
+| ------------------------------------------------------------------ | --------------------------------------------------- |
+| [!badge text="Member" icon="person" iconAlign="right"]             | A member in the server (@mention / ID)              |
+| [!badge text="User" icon="person-fill" iconAlign="right"]          | A user (usually means the user is not in the guild) |
+| [!badge text="Duration" icon="clock" iconAlign="right"]            | A duration in the format `1m, 5h, 7d`               |
+| [!badge text="Reason" icon="note" iconAlign="right"]               | A reason for an action                              |
+| [!badge text="Channel" icon="hash" iconAlign="right"]              | A channel in the server (#mention / ID)             |
+| [!badge text="Nickname" icon="id-badge" iconAlign="right"]         | A new nickname for a member (max length of 32)      |
+| [!badge text="Role" icon="mention" iconAlign="right"]              | A role in the server (@mention / ID)                |
+| [!badge text="Case ID" icon="number" iconAlign="right"]            | A case ID (found in modlogs)                        |
+| [!badge text="Bot" icon="dependabot" iconAlign="right"]            | A reference to Gir-Unit                             |
+| [!badge text="Note" icon="note" iconAlign="right"]                 | A note for a member                                 |
+| [!badge text="Warning ID" icon="number" iconAlign="right"]         | A warn Id found in warnings                         |
+| [!badge text="Server" icon="organization" iconAlign="right"]       | The server                                          |
+| [!badge icon="search" iconAlign="right" text="Query"]              | A query of a resource                               |
+| [!badge text="Author" icon="person" iconAlign="right"]             | The member who ran the command                      |
+| [!badge text="XYZ" iconAlign="right" icon="typography"]            | A string                                            |
+| [!badge text="Subcommand Group" icon="workflow" iconAlign="right"] | A subcommand group                                  |
+| [!badge text="Subcommand" icon="git-merge" iconAlign="right"]      | A subcommand                                        |
