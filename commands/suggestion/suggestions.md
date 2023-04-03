@@ -9,6 +9,8 @@ author:
 
 # Suggestion [!badge variant="dark" icon="../../static/staff-dark.png" text="Staff" iconAlign="right" margin="0 0 0 8" size="s"]
 
+This command allows staff members to **manage suggestions**
+
 ||| :icon-codescan: Syntax
 :icon-chevron-right:suggestion [!badge variant="danger" text="Suggestion ID" icon="number" iconAlign="right"](../../what-is-a-suggestion-id.md)
 |||
@@ -24,7 +26,7 @@ Mark the suggestion as its rejected
 ==- [!button variant="secondary" text="Consider" size="m"]
 Mark the suggestion as its considered
 ==- [!button variant="primpary" text="Implement" size="m"]
-Mark the suggestino as its implemented
+Mark the suggestion as its implemented
 ==-
 
 ## Usage
