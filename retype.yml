@@ -43,7 +43,7 @@ links:
     icon: home
 
 footer:
-  copyright: © Copyright {{ year }} – [Irken Empire](https://example.com/) – All rights reserved
+  copyright: © Copyright {{ year }} – [Control Brains](https://example.com/) – All rights reserved
   # links:
   #   - text: About
   #     link: about.md
